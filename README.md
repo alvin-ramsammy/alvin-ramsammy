@@ -1,6 +1,6 @@
 Hi, I'm Alvin
 
-Cybersecurity engineer building toward cloud security and detection engineering on AWS.
+I am an aspiring Cybersecurity engineer building toward cloud security and detection engineering on AWS.
 
 Currently building: aws-detection-lab — a Terraform-defined AWS environment with a full telemetry pipeline (CloudTrail, GuardDuty, Security Hub, Athena) and automated response via EventBridge and Lambda. I attack it with simulated adversary techniques, then verify every detection fires. Writeups accompany each phase.
 
